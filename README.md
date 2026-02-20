@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="portfolio-htoo-aung-lin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
+  <a href="https://portfolio-htoo-aung-lin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
   <a href="https://github.com/htooaunglin97"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"></a>
 </p>
 
