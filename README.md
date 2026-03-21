@@ -17,7 +17,7 @@
 ## 👨‍💻 More About Me
 - 🔭 I’m currently working on Spring Boot projects
 - 🌱 Learning: System Design, Microservices, Security
-- 📝 Check out my portfolio: [https://htooaunglindev.vercel.app/](https://portfolio-htoo-aung-lin.vercel.app/)
+- 📝 Check out my portfolio: [https://portfolio-htoo-aung-lin.vercel.app/](https://portfolio-htoo-aung-lin.vercel.app/)
 - 📫 How to reach me: htooaunglin0297@gmail.com
 
 ---
